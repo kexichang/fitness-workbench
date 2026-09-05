@@ -1,0 +1,24 @@
+{
+  "name": "健身工作台",
+  "short_name": "健身台",
+  "description": "面向健身人群的智能训练工作台 - 计划、执行、饮食、分析一体化",
+  "start_url": "./fitness-workbench.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f1015",
+  "theme_color": "#0f1015",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
